@@ -35,7 +35,7 @@ jobs:
       # 4. Run unit tests
       - name: Run tests
         run: |
-          pytest
+          python -m pytest
 
       # 5. Build Docker image
       - name: Build Docker image
