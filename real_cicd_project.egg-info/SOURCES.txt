@@ -1,0 +1,9 @@
+Readme.md
+pyproject.toml
+app/__init__.py
+app/app.py
+real_cicd_project.egg-info/PKG-INFO
+real_cicd_project.egg-info/SOURCES.txt
+real_cicd_project.egg-info/dependency_links.txt
+real_cicd_project.egg-info/top_level.txt
+tests/test_app.py
